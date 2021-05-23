@@ -1,0 +1,44 @@
+{
+    "head": {
+        "meta": {
+            "description": "",
+            "author": ""
+        },
+        "title": "Coming Soon - Start Bootstrap Theme",
+        "favicon": "coming-soon_template/assets/favicon.ico"
+    },
+    "content":{
+        "bg_video": {
+            "class":"bg-video",
+            "autoplay":"autoplay",
+            "muted":"muted",
+            "loop":"loop",
+            "src":"coming-soon_template/assets/mp4/bg_small.mp4",
+            "type":"video/mp4"
+        },
+        "heading":"Our Website is Coming Soon",
+        "description":"We're working hard to finish the development of this site. Sign up below to receive updates and to be notified when we launch!",
+        "input":{
+            "type":"email",
+            "placeholder":"Enter email address...",
+            "label":"Enter email address...",
+            "btn_class":"btn btn-primary",
+            "btn_text":"Notify Me!"
+        },
+        "socials":[
+            {
+                "href":"#!",
+                "icon":"fab fa-twitter"
+            },
+            {
+                "href":"#!",
+                "icon":"fab fa-facebook-f"
+            },
+            {
+                "href":"#!",
+                "icon":"fab fa-instagram"
+            }
+
+        ]
+    }
+}
